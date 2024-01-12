@@ -11,9 +11,6 @@
 // import { FaApple, FaFacebook, FaGoogle, FaGithub } from "react-icons/fa";
 import './App.css'
 import MyCV from './components/ButtonV2/MyCV'
-import ProductList from './components/ButtonV2/ProductList';
-import TodoList from './components/ButtonV2/TodoList'
-import TodoListItem from './components/ButtonV2/TodoListItem';
 
 
 // const todos = [
